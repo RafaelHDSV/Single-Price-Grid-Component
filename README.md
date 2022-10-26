@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/single-price-grid-component-solution-html-css--JcO2Cly8j
 - Live Site URL: https://single-price-grid-component-rafael.netlify.app
 
 ## My process
